@@ -4,7 +4,7 @@ This sample is a React template for [Azure Cognitive Search](https://docs.micros
 
 This version of the template is focussed on using [semantic search](https://docs.microsoft.com/azure/search/semantic-search-overview) for retail. This repo was derrived from [https://github.com/dereklegenzoff/azure-search-react-template](https://github.com/dereklegenzoff/azure-search-react-template).
 
-You can view the resulting web application here: [https://brave-smoke-0c74cdf1e.azurestaticapps.net/](https://brave-smoke-0c74cdf1e.azurestaticapps.net/)
+You can view a similar web application here: [https://brave-meadow-0f59c9b1e.1.azurestaticapps.net/](https://brave-meadow-0f59c9b1e.1.azurestaticapps.net/)
 
 ![Screenshot of sample web app](./images/web-app.png)
 
